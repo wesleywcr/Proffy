@@ -68,7 +68,6 @@ $ yarn start
 
 
 # 📝License
-
 Released in 2020.
 This project is under the [MIT license](./LICENSE)
 Made with ❤️ by [Wesley Rodrigues](https://github.com/wesleywcr)🤙👊
